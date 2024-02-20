@@ -1,0 +1,13 @@
+python>=3.10,<3.11
+flask>=2.1
+flask-cors>=3.0
+flask-sqlalchemy>=3.0
+python-dotenv>=1.0.0
+databricks-sql-connector>=3.0
+pandas>=2.0.0,<2.1.2
+pyyaml>=6.0
+flask-caching>=2.0
+rapidfuzz>=3.6.1
+sqlalchemy>=2.0
+python-dateutil>=2.8.2
+pytz>=2023.3.post1,<2024.1
