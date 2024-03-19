@@ -1,8 +1,8 @@
 ######################################################################################################################
 ## Goal: estimate the number of genes with X or more heterozygous or homozygous pLoF carriers at some sample size Y ##
-## given the number of heterozygous or homozygous pLOF carriers observed per gene at current sample sizes	        ##
+## given the number of heterozygous or homozygous pLOF carriers observed per gene at current sample sizes	    ##
 ## Date: Aug-8-2023                                                                                                 ##
-## Authors: Jonathan Marchini, Josh Backman, Daren Liu, Kathie Sun                                                  ##
+## Authors: Jonathan Marchini, Goncalo Abecasis, Josh Backman, Daren Liu, Kathie Sun                       	    ##	
 ######################################################################################################################
 
 ## BetaBinomial.R contains all functions
