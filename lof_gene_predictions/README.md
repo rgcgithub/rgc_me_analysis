@@ -3,4 +3,3 @@
 `get_projections.R` contains a short script to run the functions to estimate projected LOF gene counts using dummy input data.
 
 Questions: `joshua dot backman at regeneron dot com`
-get_projections.R contains a short script to run the functions to estimate projected LOF gene counts using dummy input data.
